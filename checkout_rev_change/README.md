@@ -1,3 +1,5 @@
+python, pandas
+
 these python scripts were designed to compare checkout revenue logic results at different hierarchy levels from prop_cd to total (all hotels)
 can be used to compare checkout revenue logic results for all charge_category values including (room, food, beverage, misc, package, phone, shop, tax)
 
