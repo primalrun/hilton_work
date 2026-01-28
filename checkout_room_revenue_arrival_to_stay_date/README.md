@@ -1,3 +1,5 @@
+SQL, Redshift SQL, columnar storage, MPP (massively parallel processing), CTE
+
 this Redshift SQL script performs the following
 
 gets the min and max extract timestamps from checkout detail for the current version of the reservation
