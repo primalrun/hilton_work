@@ -1,3 +1,5 @@
+python, polars, pandas, lazyframe
+
 **config.py**
 set variables to be used in other scripts
 
